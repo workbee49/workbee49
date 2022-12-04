@@ -2,6 +2,8 @@
 - 👀 I’m interested in FrontEnd & 3D developer
 - 🌱 I’m currently learning bablyon.js
 
+Email : joeHolt49@outlook.com
+SypeName : live:.cid.6d5ad54251588acc
 
 
 My skills include:
@@ -16,10 +18,7 @@ https://payzen.com/ Smart Payment Plans / Non-Recourse Patient Financinghttps://
 Skills: React, Next, Node, Express https://truepnl.com/ Crypto Trading Bot & Token Sale Launchpad
 Skills: React, Next, NodeI can start immediately and I can work over 40 hours per week in your regular time zone.
 I'd like to talk more about the projects and situation whenever you have a moment for me.
-Thank you![image](https://user-images.githubusercontent.com/118796598/205505351-f02b4344-81f0-468f-8846-828ad16b6a7f.png)
-
-
-
+Thank you!
 
 <!---
 JoyBee49/JoyBee49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
