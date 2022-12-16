@@ -2,23 +2,34 @@
 - 👀 I’m interested in FrontEnd & 3D developer
 - 🌱 I’m currently learning bablyon.js
 
-Email : joeHolt49@outlook.com
-SypeName : live:.cid.6d5ad54251588acc
+Email : workbee49@outlook.com
+SkypeName : live:.cid.6d5ad54251588acc
 
 
-My skills include:
-* HTML5, CSS3, Bootstrap, jQuery, Tailwind CSS, Material UI, Ant Design
-* JavaScript, TypeScript, React, Next.js, Vue, Svelte, Storybook
-* PHP, Symfony, CodeIgniter, Laravel, Python/Django, Node.js, NestJS, AdonisJS
-* MySQL, PostgreSQL, MongoDB, GraphQL
-* Git, GitHub, GitLab, Jira
-* AWS Cloud Hosting, Heroku, Vercel, Azure, Netlify.
-Below are some of my portfolio links for Next: https://moodagent.com/ Moodagent is a premium-only music streaming service striving to make music consumption and discovery relevant, dynamic and social.Here is my past invoice project developed with React/Next.js.
-https://payzen.com/ Smart Payment Plans / Non-Recourse Patient Financinghttps://equal.tech Cryptocurrency wallet Chrome extension like Metamask
-Skills: React, Next, Node, Express https://truepnl.com/ Crypto Trading Bot & Token Sale Launchpad
-Skills: React, Next, NodeI can start immediately and I can work over 40 hours per week in your regular time zone.
-I'd like to talk more about the projects and situation whenever you have a moment for me.
-Thank you!
+I am 🎈Frontend & 🥽3D developer who has experience about 6 years.
+
+I will try to do my best for your project and I am ready to give you the highest satisfaction.
+I have extensive experience with time-sensitive and challenging web development projects that require great creative and technical skills and the ability to ensure that all work is optimized across a wide range of platforms.
+I am very familiar with PHP and Python, but I have enjoyed working with the latest JavaScript/TypeScript frameworks like React, Angular, Vue for the frontend and NodeJS, ExpressJS, NestJS, HapiJS for the backend.
+I always focus on creating well-documented, well-designed and well-designed projects based on efficient and clean code.
+ You are welcome.
+
+My Major Skill
+
+- 💻 Web Frontend : React.js | Redux.js | Next.js | Angular.js | Vue.js | Typescript
+- 🧮 Web Backend: Laravel | Node.js | Express.js | MERN | MEAN
+- 📱 Mobile: React native | Flutter | Dart | Xamarin
+- 🥽 CG: Three.js | Babylon.js | Unity 3D | Phaser.js
+- 🎨 etc: 3D Artist | 3D Design | 3D Modeling
+
+My Service List
+
+- Full-stack Website & Mobile App Development
+- Creative and Unique WebGL Interactive UI Development
+- VR/AR Interactive 3D Project design and development
+- WebGL / Unity project manager ( PM )
+
+Thanks![image](https://user-images.githubusercontent.com/118796598/208035729-ca9b4414-b9bf-423b-ae8c-09bed627619f.png)
 
 <!---
 JoyBee49/JoyBee49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
