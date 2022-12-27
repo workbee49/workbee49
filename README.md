@@ -29,8 +29,6 @@ My Service List
 - VR/AR Interactive 3D Project design and development
 - WebGL / Unity project manager ( PM )
 
-Thanks![image](https://user-images.githubusercontent.com/118796598/208035729-ca9b4414-b9bf-423b-ae8c-09bed627619f.png)
-
 <!---
 JoyBee49/JoyBee49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
