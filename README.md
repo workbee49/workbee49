@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195194741-66ad0316-c2a1-48fc-af0c-198c0dad069b.gif](https://avatars.githubusercontent.com/u/118796598?v=4" alt="giphy"" alt="giphy"/></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/118796598?s=96&v=4" alt="giphy"" alt="giphy"/></p>
 <h1 align="center">Hi 👋, I'm a working bee!!</h1>
 <h3 align="center">I am a front-end & 3D developer.</h3>
 
