@@ -1,12 +1,6 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195194741-66ad0316-c2a1-48fc-af0c-198c0dad069b.gif" alt="giphy"" alt="giphy"/></p>
-<h1 align="center">Hi 👋, I'm Teke!!</h1>
-<h3 align="center">I am a front-end remote web developer who combines the art of design with the art of programming by translating UI/UX design wireframes to code.</h3>
- 
- <p align="center">
-- 👀 I’m interested in FrontEnd & 3D developer
- <br/>
-- 🌱 I’m currently learning bablyon.js
- </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195194741-66ad0316-c2a1-48fc-af0c-198c0dad069b.gif](https://avatars.githubusercontent.com/u/118796598?v=4" alt="giphy"" alt="giphy"/></p>
+<h1 align="center">Hi 👋, I'm a working bee!!</h1>
+<h3 align="center">I am a front-end & 3D developer.</h3>
 
 Email : workbee49@outlook.com
 SkypeName : live:.cid.6d5ad54251588acc
