@@ -1,6 +1,11 @@
- Hi, I’m @JoyBee49
+<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195194741-66ad0316-c2a1-48fc-af0c-198c0dad069b.gif" alt="giphy"" alt="giphy"/></p>
+<h1 align="center">Hi 👋, I'm Teke!!</h1>
+<h3 align="center">I am a front-end remote web developer who combines the art of design with the art of programming by translating UI/UX design wireframes to code.</h3>
+ 
+ <p align="center">
 - 👀 I’m interested in FrontEnd & 3D developer
 - 🌱 I’m currently learning bablyon.js
+ </p>
 
 Email : workbee49@outlook.com
 SkypeName : live:.cid.6d5ad54251588acc
@@ -29,9 +34,7 @@ My Service List
 - VR/AR Interactive 3D Project design and development
 - WebGL / Unity project manager ( PM )
 
-<p align="center"><img src="https://user-images.githubusercontent.com/29442846/195194741-66ad0316-c2a1-48fc-af0c-198c0dad069b.gif" alt="giphy"" alt="giphy"/></p>
-<h1 align="center">Hi 👋, I'm Teke!!</h1>
-<h3 align="center">I am a front-end remote web developer who combines the art of design with the art of programming by translating UI/UX design wireframes to code.</h3>
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=teke85&label=Profile%20views&color=0e75b6&style=flat" alt="teke85" /> </p>
 
