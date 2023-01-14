@@ -1,9 +1,9 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/118796598?s=96&v=4" alt="giphy"" alt="giphy"/></p>
-<h1 align="center">Hi 👋, I'm a working bee!!</h1>
+<h1 align="center">Hi , I'm a working bee!!🐝</h1>
 <h3 align="center">I am a front-end & 3D developer.</h3>
 
-Email : workbee49@outlook.com
-SkypeName : live:.cid.6d5ad54251588acc
+📬 workbee49@outlook.com
+🗨 live:.cid.6d5ad54251588acc
 
 
 
