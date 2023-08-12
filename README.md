@@ -1,41 +1,38 @@
 # 💫 About Me:
 
-Frontend Development Skills
-• HTML5/SCSS/CSS
-• Vanilla JavaScript, jQuery
-• React.js, Redux, Saga, Next.js, Gatsby
-• React Hooks, Flux, Mobx
-• Typescript, Flow
-• Preprocessors (Sass, Less, Stylus, Post CSS)
-• CSS Frameworks (Bootstrap, Foundation, Semantic
-UI, Materialize CSS), Responsive Web Design
-• Angular, Vue, PReact, Inferno, Ember.js
-• Testing Tools (Mocha, Jasmine, Jest)
-• Task Runners (NPM scripts, gulp, grunt)
-• Module loader/bundler (webpack, rollup, Require
-JS/AMD, Browserify)
-• CSS methodologies (SUITCSS, BEM, OOCSS,
-SMACSS, Systematic CSS)
-• D3, Three.js
-• Flexbox, Gradients, Grids, Rotate, Transform,
-Skew, Scale, Transitions, etc.
-• Dive Deep CSS3
-• Design Patterns, Regex, GOF Design Patterns
-Backend Development Skills
-• Java Spring Boot, Kotlin,
-• Ruby/Ruby on Rails, Go
-• Python Django / Flask
-• Node.js/Express.js
-• PHP, Laravel, WordPress
-• C#, C++, .Net Core
-• MySQL, MongoDB, PostgreSQL
-• REST API, GraphQL
+Frontend Development Skills <br/>
+• HTML5/SCSS/CSS <br/>
+• Vanilla JavaScript, jQuery <br/>
+• React.js, Redux, Saga, Next.js, Gatsby <br/>
+• React Hooks, Flux, Mobx <br/>
+• Typescript, Flow <br/>
+• Preprocessors (Sass, Less, Stylus, Post CSS) <br/>
+• CSS Frameworks (Bootstrap, Foundation, Semantic <br/>
+UI, Materialize CSS), Responsive Web Design <br/>
+• Angular, Vue, PReact, Inferno, Ember.js <br/>
+• Testing Tools (Mocha, Jasmine, Jest) <br/>
+• Task Runners (NPM scripts, gulp, grunt) <br/>
+• Module loader/bundler (webpack, rollup, Require JS/AMD, Browserify) <br/>
+• CSS methodologies (SUITCSS, BEM, OOCSS, SMACSS, Systematic CSS) <br/>
+• D3, Three.js <br/>
+• Flexbox, Gradients, Grids, Rotate, Transform, Skew, Scale, Transitions, etc. <br/>
+• Dive Deep CSS3 <br/>
+• Design Patterns, Regex, GOF Design Patterns <br/>
+Backend Development Skills <br/>
+• Java Spring Boot, Kotlin, <br/>
+• Ruby/Ruby on Rails, Go <br/>
+• Python Django / Flask <br/>
+• Node.js/Express.js <br/>
+• PHP, Laravel, WordPress <br/>
+• C#, C++, .Net Core <br/>
+• MySQL, MongoDB, PostgreSQL <br/>
+• REST API, GraphQL <br/>
 Others
-• Headless CMS platform (Prismic, Strapi,
-Contentful, Craft, WordPress)
-• GitHub, Gitlab, Bitbucket
-• Jira, Trello, Teamwork, Monday, Figma, etc.
-• Amazon Web Services, CI/CD, Docker, etc.
+• Headless CMS platform (Prismic, Strapi, <br/>
+Contentful, Craft, WordPress) <br/>
+• GitHub, Gitlab, Bitbucket <br/>
+• Jira, Trello, Teamwork, Monday, Figma, etc. <br/>
+• Amazon Web Services, CI/CD, Docker, etc. <br/>
 
 # 💻 Tech Stack:
 
