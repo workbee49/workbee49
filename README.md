@@ -1,6 +1,41 @@
 # 💫 About Me:
 
-•6 years of Analytical Sr 3D/WebGL Software Engineer experience in Design, Development, Support and Implementation global enterprise products and services with multi-tier client server architecture.<br>•3D digital asset creation, VFX, post production, VR & AR.<br>•Contributed various features and optimizations to Cesium's rendering engine and 3D Tiles.<br>•Optimized loading of hierarchical level of detail meshes to reduce data usage by 30~50%.<br>•Developed methods for accurate and simultaneous rendering of heterogeneous and multi-resolution meshes without visual artifacts through the application of a Bivariate Visibility Test(patent pending).<br>•Worked on Mindbenders WebGL engine, performed optimizations on both Virtual Texturing and rendering passes.<br>•Experienced with architecting, developing and implementing interactive 3D websites while applying SEO knowledge to engage users and drive organic traffic.
+Frontend Development Skills
+• HTML5/SCSS/CSS
+• Vanilla JavaScript, jQuery
+• React.js, Redux, Saga, Next.js, Gatsby
+• React Hooks, Flux, Mobx
+• Typescript, Flow
+• Preprocessors (Sass, Less, Stylus, Post CSS)
+• CSS Frameworks (Bootstrap, Foundation, Semantic
+UI, Materialize CSS), Responsive Web Design
+• Angular, Vue, PReact, Inferno, Ember.js
+• Testing Tools (Mocha, Jasmine, Jest)
+• Task Runners (NPM scripts, gulp, grunt)
+• Module loader/bundler (webpack, rollup, Require
+JS/AMD, Browserify)
+• CSS methodologies (SUITCSS, BEM, OOCSS,
+SMACSS, Systematic CSS)
+• D3, Three.js
+• Flexbox, Gradients, Grids, Rotate, Transform,
+Skew, Scale, Transitions, etc.
+• Dive Deep CSS3
+• Design Patterns, Regex, GOF Design Patterns
+Backend Development Skills
+• Java Spring Boot, Kotlin,
+• Ruby/Ruby on Rails, Go
+• Python Django / Flask
+• Node.js/Express.js
+• PHP, Laravel, WordPress
+• C#, C++, .Net Core
+• MySQL, MongoDB, PostgreSQL
+• REST API, GraphQL
+Others
+• Headless CMS platform (Prismic, Strapi,
+Contentful, Craft, WordPress)
+• GitHub, Gitlab, Bitbucket
+• Jira, Trello, Teamwork, Monday, Figma, etc.
+• Amazon Web Services, CI/CD, Docker, etc.
 
 # 💻 Tech Stack:
 
