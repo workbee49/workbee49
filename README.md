@@ -1,38 +1,10 @@
 # 💫 About Me:
-
-Frontend Development Skills <br/>
-• HTML5/SCSS/CSS <br/>
-• Vanilla JavaScript, jQuery <br/>
-• React.js, Redux, Saga, Next.js, Gatsby <br/>
-• React Hooks, Flux, Mobx <br/>
-• Typescript, Flow <br/>
-• Preprocessors (Sass, Less, Stylus, Post CSS) <br/>
-• CSS Frameworks (Bootstrap, Foundation, Semantic <br/>
-UI, Materialize CSS), Responsive Web Design <br/>
-• Angular, Vue, PReact, Inferno, Ember.js <br/>
-• Testing Tools (Mocha, Jasmine, Jest) <br/>
-• Task Runners (NPM scripts, gulp, grunt) <br/>
-• Module loader/bundler (webpack, rollup, Require JS/AMD, Browserify) <br/>
-• CSS methodologies (SUITCSS, BEM, OOCSS, SMACSS, Systematic CSS) <br/>
-• D3, Three.js <br/>
-• Flexbox, Gradients, Grids, Rotate, Transform, Skew, Scale, Transitions, etc. <br/>
-• Dive Deep CSS3 <br/>
-• Design Patterns, Regex, GOF Design Patterns <br/>
-Backend Development Skills <br/>
-• Java Spring Boot, Kotlin, <br/>
-• Ruby/Ruby on Rails, Go <br/>
-• Python Django / Flask <br/>
-• Node.js/Express.js <br/>
-• PHP, Laravel, WordPress <br/>
-• C#, C++, .Net Core <br/>
-• MySQL, MongoDB, PostgreSQL <br/>
-• REST API, GraphQL <br/>
-Others
-• Headless CMS platform (Prismic, Strapi, <br/>
-Contentful, Craft, WordPress) <br/>
-• GitHub, Gitlab, Bitbucket <br/>
-• Jira, Trello, Teamwork, Monday, Figma, etc. <br/>
-• Amazon Web Services, CI/CD, Docker, etc. <br/>
+Frontend Development: JavaScript and TypeScript, React.js, Vue.js, Angular, Tailwind, MUI, AntD <br/>
+Backend Development: FastAPI, Django, Flask, NodeJS, Golang   <br/>
+Mobile Development: Swift, Flutter/Dart, React Native, Kotlin <br/>
+Databases: MySQL, PostgreSQL, DynamoDB, MongoDB, Redis <br/>
+API and messaging: Restful API, GraphQL, SOAP, Apache Kafka, RabbitMQ, Amazon SQS, gRPC <br/>
+Unit testing: Mocha, Chai, Jest, Jasmine, Karma <br/>
 
 # 💻 Tech Stack:
 
